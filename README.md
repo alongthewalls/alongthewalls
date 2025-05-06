@@ -1,4 +1,8 @@
-## Hi there 👋
+## hey i'm walls
+
+currently learning **HTML & CSS** for my personal website :]
+
+i make [music](https://www.soundcloud.com/alongthewalls) !
 
 <!--
 **alongthewalls/alongthewalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
